@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
+  <title>Content Visibility</title>
+  <style>
+
+    .box {
+      height: 1600px;
+      display: flex;
+      flex-direction: column;
+
+    }
+
+    .content {
+      margin-top: auto;
+      /*content-visibility: auto;*/
+    }
+
+    .animated {
+      width: 200px;
+      height: 100px;
+      margin-top: 2rem;
+      background-color: aquamarine;
+
+      animation: my-animation 3s infinite;
+    }
+
+    @keyframes my-animation {
+      from {
+        margin-left: 0;
+      }
+
+      50% {
+        margin-left: 400px;
+      }
+
+      to {
+        margin-left: 0;
+      }
+    }
+
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <div class="box">
+
+    <div class="content">
+      <div class="animated">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, officiis.
+      </div>
+    </div>
+
+  </div>
+</div>
+
+</body>
+</html>

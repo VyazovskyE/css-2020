@@ -1,10 +1,7 @@
 ## column-count
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns
 
-## position-sticky
-https://developer.mozilla.org/en-US/docs/Web/CSS/position
-
-## aspect-ration
+## aspect-ratio
 https://developer.mozilla.org/en-US/docs/Web/CSS/aspect-ratio
 
 ## content-visibility
@@ -51,3 +48,6 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme
 
 ## prefers-reduced-motion
 https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion
+
+## position-sticky
+https://developer.mozilla.org/en-US/docs/Web/CSS/position
