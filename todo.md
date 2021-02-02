@@ -15,18 +15,16 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit
 
 ## clip-path
 https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path
-
-## css masking ??
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Masking
-
-## blend-mode
-https://developer.mozilla.org/en-US/docs/Web/CSS/blend-mode
+https://bennettfeely.com/clippy/
 
 ## filter
 https://developer.mozilla.org/en-US/docs/Web/CSS/filter
+https://www.cssfiltergenerator.com/
+https://caniuse.com/css-filters
 
 ## backdrop-filter
 https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter
+https://caniuse.com/css-backdrop-filter
 
 ## scroll-snap
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Scroll_Snap
@@ -51,3 +49,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion
 
 ## position-sticky
 https://developer.mozilla.org/en-US/docs/Web/CSS/position
+
+## css masking ??
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Masking
+
+## blend-mode
+https://developer.mozilla.org/en-US/docs/Web/CSS/blend-mode
