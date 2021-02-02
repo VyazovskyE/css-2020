@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
+  <title>Object Fit</title>
+  <style>
+
+    .box {
+      margin: 100px auto 0 auto;
+      max-width: 700px;
+      aspect-ratio: 6 / 4;
+
+      background-color: gray;
+    }
+
+    .box > img {
+      width: 100%;
+      height: 100%;
+
+      /*object-fit: fill;*/
+      /*object-fit: contain;*/
+      /*object-fit: cover;*/
+      /*object-fit: scale-down;*/
+    }
+
+  </style>
+</head>
+<body>
+
+<div class="container">
+
+  <div class="box">
+    <img src="picture.jpg" alt="">
+  </div>
+
+</div>
+
+</body>
+</html>
